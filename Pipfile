@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+flask-caching = "*"
+flask-sqlalchemy = "*"
+redis = "*"
+pyyaml = "*"
+gunicorn = "*"
+pyjwt = "*"
+requests = "*"
+wrapt = "*"
+celery = "*"
+gevent = "*"
+oss2 = "*"
+
+[requires]
+python_version = "3.7"

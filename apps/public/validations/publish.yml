@@ -1,0 +1,13 @@
+module_update:
+  project_id:
+    required: True
+    type: int
+  module_name:
+    type: basestring
+  user_ids:
+    required: True
+    type: list
+  returnvalue:
+    - user_ids
+    - module_name
+    - project_id
