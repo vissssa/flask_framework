@@ -19,4 +19,4 @@ PRs accepted.
 
 ## License
 
-MIT
+[MIT © vissssa](./LICENSE)
